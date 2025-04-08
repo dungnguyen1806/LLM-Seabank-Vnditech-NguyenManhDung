@@ -1,0 +1,14 @@
+[
+  {
+    "user": "Xin chào, cho tôi thông tin khách hàng năm 2035",
+    "assistant": "{\n    \"intent\": \"RAG intent\",\n    \"question\": \"Thông tin khách hàng năm 2035?\",\n    \"prompt\": null\n}"
+  },
+  {
+    "user": "Xin lỗi, ý tôi là năm 2015",
+    "assistant": "{\n    \"intent\": \"RAG intent\",\n    \"question\": \"Thông tin khách hàng năm 2015?\",\n    \"prompt\": null\n}"
+  },
+  {
+    "user": "Cho tôi hỏi về bảng A có những trường nào",
+    "assistant": "{\n    \"intent\": \"RAG intent\",\n    \"question\": \"Bảng A có những trường nào?\",\n    \"prompt\": null\n}"
+  }
+]
